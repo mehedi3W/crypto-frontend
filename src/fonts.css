@@ -1,0 +1,9 @@
+/* fonts.css */
+@font-face {
+  font-family: "Edu SA Beginner";
+  src: url("./assets/Edu_SA_Beginner/EduSABeginner-VariableFont_wght.ttf")
+    format("truetype");
+  /* url("/path/to/edu-sa-beginner.woff") format("woff"); */
+  /* Add other font formats if available (e.g., .ttf, .eot) */
+  font-style: italic;
+}
